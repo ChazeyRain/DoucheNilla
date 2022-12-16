@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @DoucheNilla
-- 👀 I’m interested in java programming, but I also wanna learn c++ and directx + opengl
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in game engines
+- 🌱 I’m currently developing a game with a small team
 - 📫 How to reach me:
   telegram - https://t.me/fsufauwjd
+
+I know java and now learning c++ while developing, lets see what will happen
 
 <!---
 DoucheNilla/DoucheNilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
